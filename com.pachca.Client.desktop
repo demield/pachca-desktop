@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Pachca
+Comment=Corporate messenger for modern teams
+GenericName=Pachca
+Exec=/app/bin/pachca %U
+Icon=com.pachca.Client
+Type=Application
+StartupNotify=true
+Categories=Network;InstantMessaging;
+StartupWMClass=pachca
+X-Flatpak-Tags=proprietary;
+X-Flatpak=com.pachca.Client
